@@ -29,11 +29,13 @@ jobs:
           python3 -m venv venv
           venv/bin/python -m pip install -r requirements.txt
           venv/bin/python run.py $GITHUB_WORKSPACE/data/pool_info.json
+          cd ..
+          rm -rf ./Generator
         shell: bash
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: Auto Updater
-          author_email: github-actions[bot]@users.noreply.github.com
+          author_email: 58360096+github-actions[bot]@users.noreply.github.com
           add: '.'
           message: 'auto update'
