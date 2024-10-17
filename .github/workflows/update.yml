@@ -1,0 +1,39 @@
+name: Auto Update
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 16 * * *'
+    - cron: '10 4 * * *'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Checkout Generator
+        uses: actions/checkout@v4
+        with:
+          repository: s-yh-china/ArknightsGachaDataGenerator
+          path: $GITHUB_WORKSPACE/../Generator
+          token: '${{ secrets.PERSONAL_TOKEN }}'
+      - name: Run Generator
+        run: |
+          cd ./Generator
+          python3 -m pip install --upgrade pip
+          python3 -m venv venv
+          venv/bin/python -m pip install -r requirements.txt
+          venv/bin/python run.py $GITHUB_WORKSPACE/data/pool_info.json
+        shell: bash
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Auto Updater
+          author_email: github-actions[bot]@users.noreply.github.com
+          add: '.'
+          message: 'auto update'
