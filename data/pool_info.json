@@ -1,5 +1,5 @@
 {
-    "update_time": 1730924670,
+    "update_time": 1731054508,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3586,6 +3586,14 @@
                 "斥罪",
                 "乌尔比安"
             ]
+        },
+        "FESCLASSIC_56_0_1": {
+            "id": "FESCLASSIC_56_0_1",
+            "name": "中坚甄选-第七期",
+            "real_name": "中坚甄选",
+            "type": "FESCLASSIC",
+            "start": 1731528000,
+            "end": 1732737599
         }
     },
     "process": [
