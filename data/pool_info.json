@@ -1,5 +1,5 @@
 {
-    "update_time": 1731615931,
+    "update_time": 1731659415,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3594,10 +3594,31 @@
             "type": "FESCLASSIC",
             "start": 1731528000,
             "end": 1732737599
+        },
+        "NORM_56_0_3": {
+            "id": "NORM_56_0_3",
+            "name": "联合行动-第一十七期",
+            "real_name": "联合行动",
+            "type": "NORMAL",
+            "start": 1731657600,
+            "end": 1732823999
+        },
+        "NORM_56_0_4": {
+            "id": "NORM_56_0_4",
+            "name": "常驻标准寻访-第一百四十六期",
+            "real_name": "常驻标准寻访",
+            "type": "NORMAL",
+            "start": 1732132800,
+            "end": 1733342399,
+            "up_char_info": [
+                "灵知",
+                "提丰"
+            ]
         }
     },
     "process": [
         "NORM_56_0_2",
-        "FESCLASSIC_56_0_1"
+        "FESCLASSIC_56_0_1",
+        "NORM_56_0_3"
     ]
 }
