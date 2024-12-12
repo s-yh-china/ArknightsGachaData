@@ -1,5 +1,5 @@
 {
-    "update_time": 1733948835,
+    "update_time": 1733992353,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3660,6 +3660,29 @@
             "up_char_info": [
                 "赫拉格",
                 "阿"
+            ]
+        },
+        "NORM_57_0_2": {
+            "id": "NORM_57_0_2",
+            "name": "常驻标准寻访-第一百四十八期",
+            "real_name": "常驻标准寻访",
+            "type": "NORMAL",
+            "start": 1734552000,
+            "end": 1735761599,
+            "up_char_info": [
+                "菲亚梅塔",
+                "涤火杰西卡"
+            ]
+        },
+        "SINGLE_57_0_3": {
+            "id": "SINGLE_57_0_3",
+            "name": "游邦者-复刻",
+            "real_name": "游邦者",
+            "type": "SINGLE",
+            "start": 1734595200,
+            "end": 1735761599,
+            "up_char_info": [
+                "锏"
             ]
         }
     },
