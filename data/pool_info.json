@@ -1,5 +1,5 @@
 {
-    "update_time": 1734597072,
+    "update_time": 1735028954,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3684,6 +3684,14 @@
             "up_char_info": [
                 "锏"
             ]
+        },
+        "CLASSIC_ATTAIN_57_0_2": {
+            "id": "CLASSIC_ATTAIN_57_0_2",
+            "name": "跨年欢庆·中坚-复刻",
+            "real_name": "跨年欢庆·中坚",
+            "type": "CLASSIC_ATTAIN",
+            "start": 1735156800,
+            "end": 1736366399
         }
     },
     "process": [
