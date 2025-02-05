@@ -1,5 +1,5 @@
 {
-    "update_time": 1738700664,
+    "update_time": 1738787112,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3780,10 +3780,39 @@
                 "仇白",
                 "娜仁图亚"
             ]
+        },
+        "NORM_58_0_3": {
+            "id": "NORM_58_0_3",
+            "name": "联合行动-第一十八期",
+            "real_name": "联合行动",
+            "type": "NORMAL",
+            "start": 1738742400,
+            "end": 1739908799
+        },
+        "FESCLASSIC_58_0_2": {
+            "id": "FESCLASSIC_58_0_2",
+            "name": "中坚甄选-第八期",
+            "real_name": "中坚甄选",
+            "type": "FESCLASSIC",
+            "start": 1738785600,
+            "end": 1739995199
+        },
+        "NORM_58_0_4": {
+            "id": "NORM_58_0_4",
+            "name": "常驻标准寻访-第一百五十二期",
+            "real_name": "常驻标准寻访",
+            "type": "NORMAL",
+            "start": 1739390400,
+            "end": 1740599999,
+            "up_char_info": [
+                "卡涅利安",
+                "薇薇安娜"
+            ]
         }
     },
     "process": [
-        "CLASSIC_58_0_1",
-        "NORM_58_0_2"
+        "NORM_58_0_2",
+        "NORM_58_0_3",
+        "FESCLASSIC_58_0_2"
     ]
 }
