@@ -1,5 +1,5 @@
 {
-    "update_time": 1740601537,
+    "update_time": 1740687933,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3858,7 +3858,6 @@
         }
     },
     "process": [
-        "SINGLE_58_0_5",
         "CLASSIC_58_0_3",
         "NORM_58_0_6"
     ]
