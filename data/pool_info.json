@@ -1,5 +1,5 @@
 {
-    "update_time": 1741206378,
+    "update_time": 1741379113,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3855,10 +3855,38 @@
                 "刻俄柏",
                 "早露"
             ]
+        },
+        "SINGLE_59_0_1": {
+            "id": "SINGLE_59_0_1",
+            "name": "自火中归还",
+            "real_name": "自火中归还",
+            "type": "SINGLE",
+            "start": 1741320000,
+            "end": 1742500799,
+            "up_char_info": [
+                "死芒"
+            ]
+        },
+        "DOUBLE_59_0_2": {
+            "id": "DOUBLE_59_0_2",
+            "name": "适合多种场合的强力干员",
+            "real_name": "适合多种场合的强力干员",
+            "type": "DOUBLE",
+            "start": 1741809600,
+            "end": 1743019199
+        },
+        "CLASSIC_DOUBLE_59_0_1": {
+            "id": "CLASSIC_DOUBLE_59_0_1",
+            "name": "适合多种场合的强力干员-复刻",
+            "real_name": "适合多种场合的强力干员",
+            "type": "CLASSIC_DOUBLE",
+            "start": 1742414400,
+            "end": 1743623999
         }
     },
     "process": [
         "NORM_58_0_6",
-        "CLASSIC_58_0_4"
+        "CLASSIC_58_0_4",
+        "SINGLE_59_0_1"
     ]
 }
