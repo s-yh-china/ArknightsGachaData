@@ -1,5 +1,5 @@
 {
-    "update_time": 1743625603,
+    "update_time": 1744057631,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3906,10 +3906,30 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1743624000,
             "end": 1744833599
+        },
+        "SINGLE_60_0_1": {
+            "id": "SINGLE_60_0_1",
+            "name": "指令·重构",
+            "real_name": "指令·重构",
+            "type": "SINGLE",
+            "start": 1743998400,
+            "end": 1745179199,
+            "up_char_info": [
+                "Mon3tr"
+            ]
+        },
+        "DOUBLE_60_0_2": {
+            "id": "DOUBLE_60_0_2",
+            "name": "适合多种场合的强力干员-复刻",
+            "real_name": "适合多种场合的强力干员",
+            "type": "DOUBLE",
+            "start": 1744228800,
+            "end": 1745438399
         }
     },
     "process": [
         "DOUBLE_59_0_4",
-        "CLASSIC_DOUBLE_59_0_2"
+        "CLASSIC_DOUBLE_59_0_2",
+        "SINGLE_60_0_1"
     ]
 }
