@@ -1,5 +1,5 @@
 {
-    "update_time": 1744230364,
+    "update_time": 1744662489,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3925,6 +3925,14 @@
             "type": "DOUBLE",
             "start": 1744228800,
             "end": 1745438399
+        },
+        "CLASSIC_DOUBLE_60_0_1": {
+            "id": "CLASSIC_DOUBLE_60_0_1",
+            "name": "适合多种场合的强力干员-复刻",
+            "real_name": "适合多种场合的强力干员",
+            "type": "CLASSIC_DOUBLE",
+            "start": 1744833600,
+            "end": 1746043199
         }
     },
     "process": [
