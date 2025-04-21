@@ -1,5 +1,5 @@
 {
-    "update_time": 1745180730,
+    "update_time": 1745224442,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3933,10 +3933,30 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1744833600,
             "end": 1746043199
+        },
+        "SINGLE_60_0_3": {
+            "id": "SINGLE_60_0_3",
+            "name": "如死亦终-复刻",
+            "real_name": "如死亦终",
+            "type": "SINGLE",
+            "start": 1745222400,
+            "end": 1746388799,
+            "up_char_info": [
+                "阿斯卡纶"
+            ]
+        },
+        "DOUBLE_60_0_4": {
+            "id": "DOUBLE_60_0_4",
+            "name": "适合多种场合的强力干员-复刻",
+            "real_name": "适合多种场合的强力干员",
+            "type": "DOUBLE",
+            "start": 1745438400,
+            "end": 1746647999
         }
     },
     "process": [
         "DOUBLE_60_0_2",
-        "CLASSIC_DOUBLE_60_0_1"
+        "CLASSIC_DOUBLE_60_0_1",
+        "SINGLE_60_0_3"
     ]
 }
