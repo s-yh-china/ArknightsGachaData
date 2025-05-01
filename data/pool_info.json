@@ -1,5 +1,5 @@
 {
-    "update_time": 1746044871,
+    "update_time": 1746088364,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3960,11 +3960,40 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1746043200,
             "end": 1747252799
+        },
+        "LIMITED_61_0_1": {
+            "id": "LIMITED_61_0_1",
+            "name": "布道自由",
+            "real_name": "布道自由",
+            "type": "LIMITED",
+            "start": 1746072000,
+            "end": 1747252799,
+            "up_char_info": [
+                "新约能天使",
+                "蕾缪安"
+            ],
+            "limited_char_info": [
+                "新约能天使"
+            ],
+            "weight_up_char_info": {
+                "缪尔赛思": 500,
+                "塑心": 500,
+                "维什戴尔": 500
+            }
+        },
+        "DOUBLE_61_0_2": {
+            "id": "DOUBLE_61_0_2",
+            "name": "常驻标准寻访-第一百五十八期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1746648000,
+            "end": 1747857599
         }
     },
     "process": [
         "SINGLE_60_0_3",
         "DOUBLE_60_0_4",
-        "CLASSIC_DOUBLE_60_0_2"
+        "CLASSIC_DOUBLE_60_0_2",
+        "LIMITED_61_0_1"
     ]
 }
