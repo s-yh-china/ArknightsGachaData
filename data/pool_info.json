@@ -1,5 +1,5 @@
 {
-    "update_time": 1746649746,
+    "update_time": 1746779622,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -3988,6 +3988,14 @@
             "type": "DOUBLE",
             "start": 1746648000,
             "end": 1747857599
+        },
+        "FESCLASSIC_61_0_1": {
+            "id": "FESCLASSIC_61_0_1",
+            "name": "中坚甄选-第九期",
+            "real_name": "中坚甄选",
+            "type": "FESCLASSIC",
+            "start": 1747252800,
+            "end": 1748462399
         }
     },
     "process": [
