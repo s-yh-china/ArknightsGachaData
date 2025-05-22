@@ -1,5 +1,5 @@
 {
-    "update_time": 1747859315,
+    "update_time": 1747903128,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4012,6 +4012,22 @@
             "type": "DOUBLE",
             "start": 1747857600,
             "end": 1749067199
+        },
+        "CLASSIC_DOUBLE_61_0_2": {
+            "id": "CLASSIC_DOUBLE_61_0_2",
+            "name": "中坚寻访-第四十六期",
+            "real_name": "中坚寻访",
+            "type": "CLASSIC_DOUBLE",
+            "start": 1748462400,
+            "end": 1749671999
+        },
+        "DOUBLE_61_0_5": {
+            "id": "DOUBLE_61_0_5",
+            "name": "常驻标准寻访-第一百六十期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1749067200,
+            "end": 1750276799
         }
     },
     "process": [
