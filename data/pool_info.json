@@ -1,5 +1,5 @@
 {
-    "update_time": 1749673712,
+    "update_time": 1749717314,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4047,6 +4047,14 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1749672000,
             "end": 1750881599
+        },
+        "DOUBLE_62_0_2": {
+            "id": "DOUBLE_62_0_2",
+            "name": "常驻标准寻访-第一百六十一期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1750276800,
+            "end": 1751486399
         }
     },
     "process": [
