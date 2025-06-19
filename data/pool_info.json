@@ -1,5 +1,5 @@
 {
-    "update_time": 1750278631,
+    "update_time": 1750365012,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4055,10 +4055,22 @@
             "type": "DOUBLE",
             "start": 1750276800,
             "end": 1751486399
+        },
+        "SINGLE_62_0_3": {
+            "id": "SINGLE_62_0_3",
+            "name": "沉向深渊的锚-复刻",
+            "real_name": "沉向深渊的锚",
+            "type": "SINGLE",
+            "start": 1750320000,
+            "end": 1751486399,
+            "up_char_info": [
+                "乌尔比安"
+            ]
         }
     },
     "process": [
         "CLASSIC_DOUBLE_62_0_1",
-        "DOUBLE_62_0_2"
+        "DOUBLE_62_0_2",
+        "SINGLE_62_0_3"
     ]
 }
