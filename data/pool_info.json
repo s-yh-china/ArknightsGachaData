@@ -1,5 +1,5 @@
 {
-    "update_time": 1756931202,
+    "update_time": 1756974737,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4193,10 +4193,33 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1756929600,
             "end": 1758139199
+        },
+        "LINKAGE_65_0_1": {
+            "id": "LINKAGE_65_0_1",
+            "name": "人偶的歌谣",
+            "real_name": "人偶的歌谣",
+            "type": "LINKAGE",
+            "start": 1756958400,
+            "end": 1758139199,
+            "up_char_info": [
+                "丰川祥子"
+            ],
+            "limited_char_info": [
+                "丰川祥子"
+            ]
+        },
+        "DOUBLE_65_0_2": {
+            "id": "DOUBLE_65_0_2",
+            "name": "常驻标准寻访-第一百六十七期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1757534400,
+            "end": 1758743999
         }
     },
     "process": [
         "DOUBLE_64_0_4",
-        "CLASSIC_DOUBLE_64_0_3"
+        "CLASSIC_DOUBLE_64_0_3",
+        "LINKAGE_65_0_1"
     ]
 }
