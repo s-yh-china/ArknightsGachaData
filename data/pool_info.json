@@ -1,5 +1,5 @@
 {
-    "update_time": 1758140795,
+    "update_time": 1758313576,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4223,10 +4223,30 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1758139200,
             "end": 1759348799
+        },
+        "SINGLE_65_0_3": {
+            "id": "SINGLE_65_0_3",
+            "name": "未致蒙尘-复刻",
+            "real_name": "未致蒙尘",
+            "type": "SINGLE",
+            "start": 1758268800,
+            "end": 1759435199,
+            "up_char_info": [
+                "维娜·维多利亚"
+            ]
+        },
+        "DOUBLE_65_0_4": {
+            "id": "DOUBLE_65_0_4",
+            "name": "常驻标准寻访-第一百六十八期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1758744000,
+            "end": 1759953599
         }
     },
     "process": [
         "DOUBLE_65_0_2",
-        "CLASSIC_DOUBLE_65_0_1"
+        "CLASSIC_DOUBLE_65_0_1",
+        "SINGLE_65_0_3"
     ]
 }
