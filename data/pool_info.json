@@ -1,5 +1,5 @@
 {
-    "update_time": 1761164963,
+    "update_time": 1761423974,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4301,6 +4301,14 @@
             "type": "DOUBLE",
             "start": 1761163200,
             "end": 1762372799
+        },
+        "CLASSIC_DOUBLE_66_0_2": {
+            "id": "CLASSIC_DOUBLE_66_0_2",
+            "name": "中坚寻访-第五十六期",
+            "real_name": "中坚寻访",
+            "type": "CLASSIC_DOUBLE",
+            "start": 1761768000,
+            "end": 1762977599
         }
     },
     "process": [
