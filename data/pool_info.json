@@ -1,5 +1,5 @@
 {
-    "update_time": 1767818049,
+    "update_time": 1767990798,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4447,11 +4447,31 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1767816000,
             "end": 1769025599
+        },
+        "SINGLE_69_0_1": {
+            "id": "SINGLE_69_0_1",
+            "name": "在凝固的时光中探寻",
+            "real_name": "在凝固的时光中探寻",
+            "type": "SINGLE",
+            "start": 1767913200,
+            "end": 1769111999,
+            "up_char_info": [
+                "缇缇"
+            ]
+        },
+        "DOUBLE_69_0_2": {
+            "id": "DOUBLE_69_0_2",
+            "name": "常驻标准寻访-第一百七十六期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1768420800,
+            "end": 1769630399
         }
     },
     "process": [
         "ATTAIN_68_0_4",
         "DOUBLE_68_0_5",
-        "CLASSIC_DOUBLE_68_0_3"
+        "CLASSIC_DOUBLE_68_0_3",
+        "SINGLE_69_0_1"
     ]
 }
