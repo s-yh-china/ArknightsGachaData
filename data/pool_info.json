@@ -1,5 +1,5 @@
 {
-    "update_time": 1770237965,
+    "update_time": 1770714367,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4490,10 +4490,47 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1770235200,
             "end": 1771444799
+        },
+        "LIMITED_70_0_1": {
+            "id": "LIMITED_70_0_1",
+            "name": "劫尽古今",
+            "real_name": "劫尽古今",
+            "type": "LIMITED",
+            "start": 1770678000,
+            "end": 1771876799,
+            "up_char_info": [
+                "望",
+                "赤刃明霄陈"
+            ],
+            "limited_char_info": [
+                "望"
+            ],
+            "weight_up_char_info": {
+                "重岳": 500,
+                "黍": 500,
+                "余": 500
+            }
+        },
+        "DOUBLE_70_0_2": {
+            "id": "DOUBLE_70_0_2",
+            "name": "常驻标准寻访-第一百七十八期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1770840000,
+            "end": 1772049599
+        },
+        "FESCLASSIC_70_0_1": {
+            "id": "FESCLASSIC_70_0_1",
+            "name": "中坚甄选-第一十二期",
+            "real_name": "中坚甄选",
+            "type": "FESCLASSIC",
+            "start": 1771444800,
+            "end": 1772654399
         }
     },
     "process": [
         "DOUBLE_69_0_3",
-        "CLASSIC_DOUBLE_69_0_2"
+        "CLASSIC_DOUBLE_69_0_2",
+        "LIMITED_70_0_1"
     ]
 }
