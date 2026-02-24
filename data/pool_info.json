@@ -1,5 +1,5 @@
 {
-    "update_time": 1771880112,
+    "update_time": 1771966096,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4526,10 +4526,27 @@
             "type": "FESCLASSIC",
             "start": 1771444800,
             "end": 1772654399
+        },
+        "SPECIAL_70_0_3": {
+            "id": "SPECIAL_70_0_3",
+            "name": "定向甄选-第六期",
+            "real_name": "定向甄选",
+            "type": "SPECIAL",
+            "start": 1771920000,
+            "end": 1773086399
+        },
+        "DOUBLE_70_0_4": {
+            "id": "DOUBLE_70_0_4",
+            "name": "常驻标准寻访-第一百七十九期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1772049600,
+            "end": 1773259199
         }
     },
     "process": [
         "DOUBLE_70_0_2",
-        "FESCLASSIC_70_0_1"
+        "FESCLASSIC_70_0_1",
+        "SPECIAL_70_0_3"
     ]
 }
