@@ -1,5 +1,5 @@
 {
-    "update_time": 1773089030,
+    "update_time": 1773175386,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4550,10 +4550,39 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1772654400,
             "end": 1773863999
+        },
+        "SINGLE_71_0_1": {
+            "id": "SINGLE_71_0_1",
+            "name": "以我的方式",
+            "real_name": "以我的方式",
+            "type": "SINGLE",
+            "start": 1773097200,
+            "end": 1774295999,
+            "up_char_info": [
+                "贝洛内"
+            ]
+        },
+        "RETURN_71_0_1": {
+            "id": "RETURN_71_0_1",
+            "name": "归航寻访",
+            "real_name": "归航寻访",
+            "type": "BACKFLOW",
+            "start": 1773097200,
+            "end": 1903809599
+        },
+        "DOUBLE_71_0_2": {
+            "id": "DOUBLE_71_0_2",
+            "name": "常驻标准寻访-第一百八十期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1773259200,
+            "end": 1774468799
         }
     },
     "process": [
         "DOUBLE_70_0_4",
-        "CLASSIC_DOUBLE_70_0_2"
+        "CLASSIC_DOUBLE_70_0_2",
+        "SINGLE_71_0_1",
+        "RETURN_71_0_1"
     ]
 }
