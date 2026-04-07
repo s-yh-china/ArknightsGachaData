@@ -1,5 +1,5 @@
 {
-    "update_time": 1775076929,
+    "update_time": 1775553405,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4620,12 +4620,32 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1775073600,
             "end": 1776283199
+        },
+        "SINGLE_72_0_1": {
+            "id": "SINGLE_72_0_1",
+            "name": "辟路之人",
+            "real_name": "辟路之人",
+            "type": "SINGLE",
+            "start": 1775516400,
+            "end": 1776715199,
+            "up_char_info": [
+                "怒潮凛冬"
+            ]
+        },
+        "DOUBLE_72_0_2": {
+            "id": "DOUBLE_72_0_2",
+            "name": "常驻标准寻访-第一百八十二期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1775678400,
+            "end": 1776887999
         }
     },
     "process": [
         "RETURN_71_0_1",
         "DOUBLE_71_0_4",
         "SINGLE_71_0_5",
-        "CLASSIC_DOUBLE_71_0_2"
+        "CLASSIC_DOUBLE_71_0_2",
+        "SINGLE_72_0_1"
     ]
 }
