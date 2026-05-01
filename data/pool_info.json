@@ -1,5 +1,5 @@
 {
-    "update_time": 1777497250,
+    "update_time": 1777629261,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4663,11 +4663,40 @@
             "type": "CLASSIC_DOUBLE",
             "start": 1777492800,
             "end": 1778702399
+        },
+        "LIMITED_73_0_1": {
+            "id": "LIMITED_73_0_1",
+            "name": "承诺",
+            "real_name": "承诺",
+            "type": "LIMITED",
+            "start": 1777590000,
+            "end": 1778788799,
+            "up_char_info": [
+                "凯尔希·思衡托",
+                "可露希尔"
+            ],
+            "limited_char_info": [
+                "凯尔希·思衡托"
+            ],
+            "weight_up_char_info": {
+                "维什戴尔": 500,
+                "荒芜拉普兰德": 500,
+                "新约能天使": 500
+            }
+        },
+        "DOUBLE_73_0_2": {
+            "id": "DOUBLE_73_0_2",
+            "name": "常驻标准寻访-第一百八十四期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1778097600,
+            "end": 1779307199
         }
     },
     "process": [
         "RETURN_71_0_1",
         "DOUBLE_72_0_3",
-        "CLASSIC_DOUBLE_72_0_2"
+        "CLASSIC_DOUBLE_72_0_2",
+        "LIMITED_73_0_1"
     ]
 }
