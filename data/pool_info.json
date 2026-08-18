@@ -1,5 +1,5 @@
 {
-    "update_time": 1786739835,
+    "update_time": 1787085128,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4889,11 +4889,44 @@
             "type": "DOUBLE",
             "start": 1786564800,
             "end": 1787774399
+        },
+        "NORM_76_0_3": {
+            "id": "NORM_76_0_3",
+            "name": "联合行动-第二十三期",
+            "real_name": "联合行动",
+            "type": "NORMAL",
+            "start": 1787040000,
+            "end": 1788206399
+        },
+        "FESCLASSIC_76_0_2": {
+            "id": "FESCLASSIC_76_0_2",
+            "name": "中坚甄选-第一十四期",
+            "real_name": "中坚甄选",
+            "type": "FESCLASSIC",
+            "start": 1787169600,
+            "end": 1788379199
+        },
+        "DOUBLE_76_0_4": {
+            "id": "DOUBLE_76_0_4",
+            "name": "常驻标准寻访-第一百九十二期",
+            "real_name": "常驻标准寻访",
+            "type": "DOUBLE",
+            "start": 1787774400,
+            "end": 1788983999
+        },
+        "CLASSIC_DOUBLE_76_0_3": {
+            "id": "CLASSIC_DOUBLE_76_0_3",
+            "name": "中坚寻访-第七十三期",
+            "real_name": "中坚寻访",
+            "type": "CLASSIC_DOUBLE",
+            "start": 1788379200,
+            "end": 1789588799
         }
     },
     "process": [
         "RETURN_71_0_1",
         "CLASSIC_DOUBLE_76_0_1",
-        "DOUBLE_76_0_2"
+        "DOUBLE_76_0_2",
+        "NORM_76_0_3"
     ]
 }
