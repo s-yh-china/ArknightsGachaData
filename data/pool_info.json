@@ -1,5 +1,5 @@
 {
-    "update_time": 1791418030,
+    "update_time": 1791558732,
     "pool": {
         "NORM_0_1_1": {
             "id": "NORM_0_1_1",
@@ -4983,12 +4983,32 @@
             "type": "DOUBLE",
             "start": 1791403200,
             "end": 1792612799
+        },
+        "SINGLE_78_0_1": {
+            "id": "SINGLE_78_0_1",
+            "name": "海渊巡游",
+            "real_name": "海渊巡游",
+            "type": "SINGLE",
+            "start": 1791500400,
+            "end": 1792699199,
+            "up_char_info": [
+                "克莱门莎"
+            ]
+        },
+        "CLASSIC_DOUBLE_78_0_1": {
+            "id": "CLASSIC_DOUBLE_78_0_1",
+            "name": "中坚寻访-第七十六期",
+            "real_name": "中坚寻访",
+            "type": "CLASSIC_DOUBLE",
+            "start": 1792008000,
+            "end": 1793217599
         }
     },
     "process": [
         "RETURN_71_0_1",
         "SPECIAL_77_0_4",
         "CLASSIC_DOUBLE_77_0_2",
-        "DOUBLE_77_0_5"
+        "DOUBLE_77_0_5",
+        "SINGLE_78_0_1"
     ]
 }
